@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: sohyeon
+Build-Jdk: 17.0.3
+Implementation-Title: kdt
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.prammers
+Main-Class: ${start-class}
+
